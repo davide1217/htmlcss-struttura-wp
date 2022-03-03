@@ -9,3 +9,62 @@ content: "";
 display: table;
 clear: both;
 }
+
+body{
+  width: 80%;
+  margin: auto;
+}
+
+header{
+  height: 80px;
+  background-color: #E579E6;
+}
+
+#top{
+  height: 500px;
+  background-color: #E1D67A;
+}
+
+#bottom{
+  background-color: #2083F6;
+}
+
+footer{
+  height: 40px;
+  background-color: #8D4CF7;
+  margin-top: 10px;
+}
+
+main > section{
+  margin-top: 20px;
+}
+
+.col{
+  background-color: #ABCFE7;
+}
+
+.hr-col > .col{
+  float: left;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  height: 420px;
+}
+
+.top{
+  height: 80px;
+}
+
+aside{
+  width: 20%;
+}
+
+.center{
+  width: 57%;
+  margin-left: 1.5%;
+  margin-right: 1.5%;
+}
+
+
+
+
+
